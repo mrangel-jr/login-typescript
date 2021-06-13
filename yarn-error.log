@@ -1,0 +1,38 @@
+Arguments: 
+  /Users/marcos/.nvm/versions/node/v12.16.1/bin/node /usr/local/bin/yarn add -D git-commit-msg-linter
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/2.7/bin:/Users/marcos/.nvm/versions/node/v12.16.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Users/marcos/.nvm/versions/node/v12.16.1/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm-registry.dev.ahss.io
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+
+npm manifest: 
+  {
+    "name": "clean-react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
